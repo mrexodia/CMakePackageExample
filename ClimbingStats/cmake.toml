@@ -1,0 +1,8 @@
+[package]
+name = "ClimbingStats"
+targets = [
+    "ClimbingStats",
+]
+namespace = "Upstream::"
+# generate_export_header(ClimbingStats)
+export-header = "ClimbingStats"
